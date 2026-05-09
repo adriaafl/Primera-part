@@ -10,7 +10,7 @@ Ves a:
 
 
 
-3. Crear un compte
+2. Crear un compte
 Clica “Sign up” per registrate
 Escriu:
 el teu email
@@ -22,8 +22,7 @@ Després segueix els passos que et demanen (confirmar email, etc.).
 
 
 
-4. Entrar al teu compte
-
+3. Entrar al teu compte
 Quan ja tens el compte creat:
 
 Inicia sessió amb el teu email i contrasenya
@@ -32,12 +31,12 @@ Inicia sessió amb el teu email i contrasenya
 
 
 
-5. Crear el teu primer projecte (repositori)
-   
+4. Crear el teu primer projecte (repositori)
 A dalt a la dreta, fes clic al “+”
 Clica “New repository”
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61764c0c-a3b1-4131-8574-acccc300a48d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3819e310-9f7f-46a2-9586-6ab8ff60fab2" />
+
 
 
 6. Posar-li nom:
@@ -52,7 +51,7 @@ Pots posar una descripció si vols
 8. Crear-lo
 Clica “Create repository”
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/731a73bf-8827-45c5-bf3b-8a32f1c4c163" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/447f0728-a473-459a-9ded-ccbaef38eea3" />
 
 
 
